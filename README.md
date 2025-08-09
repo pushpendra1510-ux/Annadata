@@ -12,7 +12,7 @@ No middlemen. No confusion. Just clear, simple, and direct access.
 ## 🚀 Features
 - **Scheme Discovery:** AI recommends relevant schemes for each farmer.
 - **Easy Access:** No complicated forms or hidden info.
-- **Zero Middlemen:** Farmers connect directly to resources.
+- **Zero Middlemen:** Farmers connect directly.
 - **Multi-Language Support:** Access in farmers’ preferred language.
 - **Mobile-Friendly:** Works on any device, anywhere.
 ---
